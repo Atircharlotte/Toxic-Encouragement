@@ -9,5 +9,8 @@
 #### 參考學習影片
 [Random Emoji Generator](https://www.youtube.com/watch?v=fktboFdXdKY)
 
+#### 毒雞湯出處
+[一些毒雞湯](https://www.madamefigaro.hk/wellness/厭世-毒雞湯-負能量-電影-21742/)
+
 #### 備註：
 目前是專案小白，所以目前以練習簡單的小東東為樂趣！歡迎大佬們指教或給予建議～
